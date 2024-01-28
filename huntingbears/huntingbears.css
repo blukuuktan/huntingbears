@@ -1,0 +1,54 @@
+body{
+    background-image: url(background3.jpg);
+}
+
+#alap{
+    background-color: black;
+    width: 60%;
+    margin: auto;
+}
+
+#huntingbears{
+    color: #E03120;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#text1{
+    color: #E03120;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#websitelogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+tr{
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E03120;
+}
+
+table{
+    margin: auto;
+    border: black;
+    background-color: black;
+}
+
+td{
+    border: solid black 2px;
+}
+
+td:hover{
+    background-color: #E03120;
+    color: black;
+}
+
+#albumcover{
+    width: 120px;
+}
